@@ -1,0 +1,1 @@
+This is a C++ project emulating a trading system, which processes buy and sell orders for cryptocurrencies. It simulates a simple market environment where users can place bids and asks, view market statistics, and track their holdings in a digital wallet.
